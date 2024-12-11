@@ -22,5 +22,3 @@
 <p align="left">  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=helinatefera&theme=slateorange&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j" width="45%"/> 
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helinatefera&show_icons=true&locale=en" alt="helinatefera" /></p>
-
